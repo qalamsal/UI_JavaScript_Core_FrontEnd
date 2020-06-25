@@ -1,0 +1,28 @@
+fetch allows to make Http Request like XMLHttpRequest
+but with using promises.
+
+Issue:  Error Handling..
+
+M1 (method one):
+---------------
+
+fetch("url")
+.then(response=>{
+return response.json();
+})
+.then(users=>{
+console.log(users);
+})
+
+
+
+M2(method two) : using async and Await..
+
+
+async function getUsers(){
+
+lets response=await fetch("url");
+let data=awit response.json()
+return data;
+}
+getUsers().then(data=>console.log(data));

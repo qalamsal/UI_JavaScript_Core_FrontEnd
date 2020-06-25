@@ -1,0 +1,36 @@
+AJAX = Asynchronous JavaScript And XML (but can work with Json).
+
+(Ajax is not programming language)
+
+uses ->
+a. browser build in XMLHttpRequest object ( to request data from server)
+b. js and DOM ( to display or use data)
+
+
+KEY..
+The keystone of AJAX is the XMLHttpRequest object.
+
+Syntax
+variable = new XMLHttpRequest();
+eg:
+var xhttp=new XMLHttpRequest();
+
+To Send Request to Server
+------------------------
+we use the open() and send() methods of the XMLHttpRequest object:
+eg:
+
+GET
+---
+xhttp.open("GET", "ajax_info.txt", true); //the location can of  File, URL
+xhttp.send();
+
+POST  (use to send: more data, more secure)
+----
+xhttp.open("POST", "ajax_info.txt", true); //the location can of  File, URL
+xhttp.send(string); //string as parameter to post operation
+
+
+
+
+
