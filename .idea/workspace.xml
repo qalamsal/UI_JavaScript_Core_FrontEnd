@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b6e29e6-6d07-4f66-ab76-f53ed90a578e" name="Default Changelist" comment="" />
+    <list default="true" id="2b6e29e6-6d07-4f66-ab76-f53ed90a578e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/14.ReactJs/HelloReact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/14.ReactJs/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +16,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dgKTPVhvl4vp2aYAXcS7hrKMkX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,16 +34,12 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/13.ApiCall/2.Fetch" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea" />
-      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd" />
-      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\12.ApiCall\1.XMLHttpRequest" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\13.ApiCall\2.Fetch" />
       <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\12.ApiCall\1.XMLHttpRequest" />
@@ -41,8 +47,19 @@
       <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\3.DisplayOutPut" />
       <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\2.InnerHtml\lightOnOff" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea" />
+      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd" />
+      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\12.ApiCall\1.XMLHttpRequest" />
+    </key>
   </component>
-  <component name="RunManager" selected="Node.js.axiosGetRequest.js">
+  <component name="RunManager" selected="JavaScript Debug.Index.html">
+    <configuration name="Index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript_Core_for_FrontEnd/.idea/14.ReactJs/Index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloReact.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/14.ReactJs/HelloReact.js" working-dir="$PROJECT_DIR$/.idea/14.ReactJs">
+      <method v="2" />
+    </configuration>
     <configuration name="axiosGetRequest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/13.ApiCall/3.Axios Api/axiosGetRequest.js" working-dir="$PROJECT_DIR$/.idea/13.ApiCall/3.Axios Api">
       <method v="2" />
     </configuration>
@@ -52,19 +69,13 @@
     <configuration name="fetch_simple.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/13.ApiCall/2.Fetch/fetch_simple.js" working-dir="$PROJECT_DIR$/.idea/13.ApiCall/2.Fetch">
       <method v="2" />
     </configuration>
-    <configuration name="intermediateXMLHttpRequest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/13.ApiCall/1.XMLHttpRequest/intermediateXMLHttpRequest.js" working-dir="$PROJECT_DIR$/.idea/13.ApiCall/1.XMLHttpRequest">
-      <method v="2" />
-    </configuration>
-    <configuration name="sendAjaxGetRequestReadFileContent.html" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/12.Ajax_Js/sendAjaxGetRequestReadFileContent.html" working-dir="$PROJECT_DIR$/.idea/12.Ajax_Js">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Index.html" />
+        <item itemvalue="Node.js.HelloReact.js" />
         <item itemvalue="Node.js.axiosGetRequest.js" />
         <item itemvalue="Node.js.fetch_async_await.js" />
         <item itemvalue="Node.js.fetch_simple.js" />
-        <item itemvalue="Node.js.sendAjaxGetRequestReadFileContent.html" />
-        <item itemvalue="Node.js.intermediateXMLHttpRequest.js" />
       </list>
     </recent_temporary>
   </component>
@@ -80,7 +91,11 @@
       <updated>1592841302481</updated>
       <workItem from="1592841304228" duration="1982000" />
       <workItem from="1592844692222" duration="6710000" />
-      <workItem from="1592951214998" duration="23900000" />
+      <workItem from="1592951214998" duration="24102000" />
+      <workItem from="1593110790922" duration="4953000" />
+      <workItem from="1593116505270" duration="23000" />
+      <workItem from="1593116554791" duration="489000" />
+      <workItem from="1593121345400" duration="7056000" />
     </task>
     <servers />
   </component>
@@ -92,28 +107,28 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593036822536" />
-    <state width="1323" height="193" key="GridCell.Tab.0.bottom" timestamp="1593107770611">
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1593116255491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="193" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593107770611" />
+    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593116255491" />
     <state width="1877" height="361" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1593103100817" />
     <state width="1323" height="304" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593096787084" />
-    <state width="1323" height="193" key="GridCell.Tab.0.center" timestamp="1593107770611">
+    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1593116255491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="193" key="GridCell.Tab.0.center/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593107770611" />
+    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593116255491" />
     <state width="1877" height="361" key="GridCell.Tab.0.center/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1593103100817" />
     <state width="1323" height="304" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593096787084" />
-    <state width="1323" height="193" key="GridCell.Tab.0.left" timestamp="1593107770611">
+    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1593116255491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="193" key="GridCell.Tab.0.left/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593107770611" />
+    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593116255491" />
     <state width="1877" height="361" key="GridCell.Tab.0.left/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1593103100817" />
     <state width="1323" height="304" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593096787084" />
-    <state width="1323" height="193" key="GridCell.Tab.0.right" timestamp="1593107770611">
+    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1593116255491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="193" key="GridCell.Tab.0.right/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593107770611" />
+    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593116255491" />
     <state width="1877" height="361" key="GridCell.Tab.0.right/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1593103100817" />
     <state width="1323" height="304" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593096787084" />
     <state x="391" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1592951219604">
