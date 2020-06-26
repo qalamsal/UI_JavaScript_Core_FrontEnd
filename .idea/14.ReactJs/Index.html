@@ -56,13 +56,13 @@ function Hello(props) {
     class Hello2 extends React.Component {
         render(){
             return(
-                <h1>This is new Hello</h1>
+                <h1>This is new Hello {this.props.name}</h1>
             )
         }
     }
 
     ReactDOM.render(
-        <Hello2/>, document.getElementById('loot')
+        <Hello2 name={"sandy"}/>, document.getElementById('loot')
     );
 
 </script>
