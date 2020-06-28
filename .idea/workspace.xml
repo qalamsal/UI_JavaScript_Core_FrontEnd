@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b6e29e6-6d07-4f66-ab76-f53ed90a578e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/14.ReactJs/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/14.ReactJs/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/15.ReactJsOutHtml/HelloComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/15.ReactJsOutHtml/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/15.ReactJsOutHtml/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/16.ReactJsApiCall/ApiCode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/16.ReactJsApiCall/HelloComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/16.ReactJsApiCall/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/14.ReactJs/HelloReact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/14.ReactJs/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/14.ReactJsInHtml/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/2.InnerHtml/lightOnOff/InnerHtml.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2.InnerHtml/lightOnOff/InnerHtml.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -34,30 +42,30 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/13.ApiCall/2.Fetch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\13.ApiCall\2.Fetch" />
-      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\12.ApiCall\1.XMLHttpRequest" />
-      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\7.EcmaScript" />
-      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\3.DisplayOutPut" />
-      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\2.InnerHtml\lightOnOff" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea" />
       <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd" />
       <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\12.ApiCall\1.XMLHttpRequest" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea" />
+      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\13.ApiCall\2.Fetch" />
+      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\12.ApiCall\1.XMLHttpRequest" />
+      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\7.EcmaScript" />
+      <recent name="C:\Users\iot\IdeaProjects\JavaScript_Core_for_FrontEnd\.idea\3.DisplayOutPut" />
+    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Index.html">
-    <configuration name="Index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript_Core_for_FrontEnd/.idea/14.ReactJs/Index.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="Node.js.fetch_async_await.js">
+    <configuration name="Index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript_Core_for_FrontEnd/.idea/15.ReactJsOutHtml/Index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="HelloReact.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/14.ReactJs/HelloReact.js" working-dir="$PROJECT_DIR$/.idea/14.ReactJs">
+    <configuration name="Index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript_Core_for_FrontEnd/.idea/16.ReactJsApiCall/Index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="axiosGetRequest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/13.ApiCall/3.Axios Api/axiosGetRequest.js" working-dir="$PROJECT_DIR$/.idea/13.ApiCall/3.Axios Api">
+    <configuration name="ApiCode.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/16.ReactJsApiCall/ApiCode.js" working-dir="$PROJECT_DIR$/.idea/16.ReactJsApiCall">
       <method v="2" />
     </configuration>
     <configuration name="fetch_async_await.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.idea/13.ApiCall/2.Fetch/fetch_async_await.js" working-dir="$PROJECT_DIR$/.idea/13.ApiCall/2.Fetch">
@@ -68,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Index.html" />
-        <item itemvalue="Node.js.HelloReact.js" />
-        <item itemvalue="Node.js.axiosGetRequest.js" />
         <item itemvalue="Node.js.fetch_async_await.js" />
         <item itemvalue="Node.js.fetch_simple.js" />
+        <item itemvalue="JavaScript Debug.Index.html (2)" />
+        <item itemvalue="Node.js.ApiCode.js" />
+        <item itemvalue="JavaScript Debug.Index.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +100,7 @@
       <workItem from="1593110790922" duration="4953000" />
       <workItem from="1593116505270" duration="23000" />
       <workItem from="1593116554791" duration="489000" />
-      <workItem from="1593121345400" duration="8187000" />
+      <workItem from="1593121345400" duration="27430000" />
     </task>
     <task id="LOCAL-00001" summary="React Js , Concepts">
       <created>1593186273084</created>
@@ -120,30 +128,78 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593036822536" />
-    <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1593116255491">
+    <state width="1323" height="143" key="GridCell.Tab.0.bottom" timestamp="1593368722180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593116255491" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593196679832" />
     <state width="1877" height="361" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1593103100817" />
-    <state width="1323" height="304" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593096787084" />
-    <state width="1323" height="163" key="GridCell.Tab.0.center" timestamp="1593116255491">
+    <state width="1323" height="143" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593368722180" />
+    <state width="1323" height="143" key="GridCell.Tab.0.center" timestamp="1593368722180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.center/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593116255491" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593196679832" />
     <state width="1877" height="361" key="GridCell.Tab.0.center/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1593103100817" />
-    <state width="1323" height="304" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593096787084" />
-    <state width="1323" height="163" key="GridCell.Tab.0.left" timestamp="1593116255491">
+    <state width="1323" height="143" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593368722180" />
+    <state width="1323" height="143" key="GridCell.Tab.0.left" timestamp="1593368722180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.left/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593116255491" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593196679832" />
     <state width="1877" height="361" key="GridCell.Tab.0.left/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1593103100817" />
-    <state width="1323" height="304" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593096787084" />
-    <state width="1323" height="163" key="GridCell.Tab.0.right" timestamp="1593116255491">
+    <state width="1323" height="143" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593368722180" />
+    <state width="1323" height="143" key="GridCell.Tab.0.right" timestamp="1593368722180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593116255491" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593196679832" />
     <state width="1877" height="361" key="GridCell.Tab.0.right/0.0.1366.728/1366.-420.1920.1040@1366.-420.1920.1040" timestamp="1593103100817" />
-    <state width="1323" height="304" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593096787084" />
+    <state width="1323" height="143" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593368722180" />
+    <state width="1323" height="2" key="GridCell.Tab.1.bottom" timestamp="1593207583227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593207583227" />
+    <state width="1323" height="2" key="GridCell.Tab.1.center" timestamp="1593207583227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593207583227" />
+    <state width="1323" height="2" key="GridCell.Tab.1.left" timestamp="1593207583227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593207583227" />
+    <state width="1323" height="2" key="GridCell.Tab.1.right" timestamp="1593207583227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593207583227" />
+    <state width="1323" height="2" key="GridCell.Tab.2.bottom" timestamp="1593207583229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593207583229" />
+    <state width="1323" height="2" key="GridCell.Tab.2.center" timestamp="1593207583228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1593207583228" />
+    <state width="1323" height="2" key="GridCell.Tab.2.left" timestamp="1593207583227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1593207583227" />
+    <state width="1323" height="2" key="GridCell.Tab.2.right" timestamp="1593207583228">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1593207583228" />
+    <state width="1323" height="2" key="GridCell.Tab.3.bottom" timestamp="1593207583229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593207583229" />
+    <state width="1323" height="2" key="GridCell.Tab.3.center" timestamp="1593207583229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1593207583229" />
+    <state width="1323" height="2" key="GridCell.Tab.3.left" timestamp="1593207583229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1593207583229" />
+    <state width="1323" height="2" key="GridCell.Tab.3.right" timestamp="1593207583229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1593207583229" />
     <state x="1725" y="-154" width="816" height="558" key="Vcs.Push.Dialog.v2" timestamp="1593186296594">
       <screen x="1366" y="-420" width="1920" height="1040" />
     </state>
@@ -152,5 +208,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="391" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1592951219604" />
+    <state x="65" y="69" key="new project wizard" timestamp="1593191450174">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="69" key="new project wizard/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1593191450174" />
   </component>
 </project>

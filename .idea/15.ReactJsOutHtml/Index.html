@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Add React in One Minute</title>
+</head>
+<body>
+
+React JS !!
+<div id="root"></div>
+<div id="loot"></div>
+</p>
+
+
+<!-- Load React. -->
+<!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+<script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+<script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+<script src="code.js" type="text/babel"></script>
+<script src="HelloComponent.js" type="text/babel"></script>
+
+
+<script type="text/babel">
+    //var ReactDOM = require('react-dom');
+    //var createClass = require('create-react-class')
+ ReactDOM.render(
+     //passing from componets are props..
+ <Hello name={"sandesh"}/>, document.getElementById('root')
+ );
+
+</script>
+
+<script type="text/babel">
+    //var ReactDOM = require('react-dom');
+    //var createClass = require('create-react-class')
+    ReactDOM.render(
+        <Hello2 name={"sandy"}/>, document.getElementById('loot')
+    );
+
+</script>
+
+</body>
+</html>
